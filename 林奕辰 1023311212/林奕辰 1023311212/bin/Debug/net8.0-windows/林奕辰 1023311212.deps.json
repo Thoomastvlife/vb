@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "林奕辰 1023311212/1.0.0": {
+        "runtime": {
+          "林奕辰 1023311212.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "林奕辰 1023311212/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
