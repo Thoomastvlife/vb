@@ -1,0 +1,16 @@
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰_1025311212.Form1.resources
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.vbproj.GenerateResource.cache
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.GeneratedMSBuildEditorConfig.editorconfig
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.AssemblyInfoInputs.cache
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.AssemblyInfo.vb
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.vbproj.CoreCompileInputs.cache
+D:\林奕辰 1025311212\林奕辰 1025311212\bin\Debug\net8.0-windows\林奕辰 1025311212.exe
+D:\林奕辰 1025311212\林奕辰 1025311212\bin\Debug\net8.0-windows\林奕辰 1025311212.deps.json
+D:\林奕辰 1025311212\林奕辰 1025311212\bin\Debug\net8.0-windows\林奕辰 1025311212.runtimeconfig.json
+D:\林奕辰 1025311212\林奕辰 1025311212\bin\Debug\net8.0-windows\林奕辰 1025311212.dll
+D:\林奕辰 1025311212\林奕辰 1025311212\bin\Debug\net8.0-windows\林奕辰 1025311212.pdb
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.dll
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\refint\林奕辰 1025311212.dll
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.pdb
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\林奕辰 1025311212.genruntimeconfig.cache
+D:\林奕辰 1025311212\林奕辰 1025311212\obj\Debug\net8.0-windows\ref\林奕辰 1025311212.dll
