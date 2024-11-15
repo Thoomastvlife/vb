@@ -1,0 +1,16 @@
+D:\1115311212\1115311212\bin\Debug\net8.0-windows\1115311212.exe
+D:\1115311212\1115311212\bin\Debug\net8.0-windows\1115311212.deps.json
+D:\1115311212\1115311212\bin\Debug\net8.0-windows\1115311212.runtimeconfig.json
+D:\1115311212\1115311212\bin\Debug\net8.0-windows\1115311212.dll
+D:\1115311212\1115311212\bin\Debug\net8.0-windows\1115311212.pdb
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\_1115311212.Form1.resources
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.vbproj.GenerateResource.cache
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.GeneratedMSBuildEditorConfig.editorconfig
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.AssemblyInfoInputs.cache
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.AssemblyInfo.vb
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.vbproj.CoreCompileInputs.cache
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.dll
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\refint\1115311212.dll
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.pdb
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\1115311212.genruntimeconfig.cache
+D:\1115311212\1115311212\obj\Debug\net8.0-windows\ref\1115311212.dll
