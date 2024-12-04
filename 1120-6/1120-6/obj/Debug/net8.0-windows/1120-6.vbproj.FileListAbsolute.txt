@@ -1,0 +1,16 @@
+D:\vb-main\1120-6\1120-6\bin\Debug\net8.0-windows\1120-6.exe
+D:\vb-main\1120-6\1120-6\bin\Debug\net8.0-windows\1120-6.deps.json
+D:\vb-main\1120-6\1120-6\bin\Debug\net8.0-windows\1120-6.runtimeconfig.json
+D:\vb-main\1120-6\1120-6\bin\Debug\net8.0-windows\1120-6.dll
+D:\vb-main\1120-6\1120-6\bin\Debug\net8.0-windows\1120-6.pdb
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\_1120_6.Form1.resources
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.vbproj.GenerateResource.cache
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.AssemblyInfoInputs.cache
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.AssemblyInfo.vb
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.vbproj.CoreCompileInputs.cache
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.dll
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\refint\1120-6.dll
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.pdb
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\1120-6.genruntimeconfig.cache
+D:\vb-main\1120-6\1120-6\obj\Debug\net8.0-windows\ref\1120-6.dll
