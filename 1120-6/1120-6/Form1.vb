@@ -24,7 +24,10 @@
     End Sub
 
     Sub sp1(i)
+        Dim idno = d(i, 1)
+        If Not idno Like
 
+        End If
     End Sub
     Sub sp2(i)
 
