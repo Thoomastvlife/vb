@@ -67,6 +67,7 @@ Partial Class Form1
         TextBox4.Name = "TextBox4"
         TextBox4.Size = New Size(100, 23)
         TextBox4.TabIndex = 7
+        TextBox4.Text = "2024/12/11"
         ' 
         ' TextBox3
         ' 
@@ -74,6 +75,7 @@ Partial Class Form1
         TextBox3.Name = "TextBox3"
         TextBox3.Size = New Size(100, 23)
         TextBox3.TabIndex = 6
+        TextBox3.Text = "11211311000"
         ' 
         ' TextBox2
         ' 
@@ -81,6 +83,7 @@ Partial Class Form1
         TextBox2.Name = "TextBox2"
         TextBox2.Size = New Size(100, 23)
         TextBox2.TabIndex = 5
+        TextBox2.Text = "00"
         ' 
         ' TextBox1
         ' 
@@ -88,6 +91,7 @@ Partial Class Form1
         TextBox1.Name = "TextBox1"
         TextBox1.Size = New Size(100, 23)
         TextBox1.TabIndex = 4
+        TextBox1.Text = "000"
         ' 
         ' Label4
         ' 

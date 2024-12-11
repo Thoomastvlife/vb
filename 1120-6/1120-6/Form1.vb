@@ -25,7 +25,7 @@
 
     Sub sp1(i)
         Dim idno = d(i, 1)
-        If Not idno Like
+        If Not idno Like "[A-Z]#########" Then ec = "FORMAT ERROR"
 
         End If
     End Sub
