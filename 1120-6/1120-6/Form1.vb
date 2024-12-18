@@ -27,13 +27,23 @@
         Dim idno = d(i, 1)
         If Not idno Like "[A-Z]#########" Then ec = "FORMAT ERROR"
 
-        End If
+
     End Sub
     Sub sp2(i)
+        Dim sex_mf = d(i, 3)
+        Dim sex_12 = Mid(d(i, 11), 2, 1)
+        Dim msex = sex_12 & sex_mf
+        If msex <> "1M" And msex <> "2F" Then ec = "SEX CODE ERROR"
+
 
     End Sub
 
     Sub sp3(i)
+        Dim s26 = "ABCDEFGHJKLMNPQRSTUVXYWZIO"
+        Dim L1 = Mid(d(i, 1), 1, 1)
+        Dim x1 = InStr(s26, L1) + 9
+
+
 
     End Sub
     Sub wdata()

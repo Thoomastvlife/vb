@@ -67,7 +67,7 @@ Partial Class Form1
         TextBox4.Name = "TextBox4"
         TextBox4.Size = New Size(100, 23)
         TextBox4.TabIndex = 7
-        TextBox4.Text = "2024/12/11"
+        TextBox4.Text = "2024/12/18"
         ' 
         ' TextBox3
         ' 

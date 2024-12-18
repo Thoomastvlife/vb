@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vb-main\\1120-6\\1120-6\\1120-6.vbproj": {}
+    "D:\\1120-6\\1120-6\\1120-6.vbproj": {}
   },
   "projects": {
-    "D:\\vb-main\\1120-6\\1120-6\\1120-6.vbproj": {
+    "D:\\1120-6\\1120-6\\1120-6.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vb-main\\1120-6\\1120-6\\1120-6.vbproj",
+        "projectUniqueName": "D:\\1120-6\\1120-6\\1120-6.vbproj",
         "projectName": "1120-6",
-        "projectPath": "D:\\vb-main\\1120-6\\1120-6\\1120-6.vbproj",
+        "projectPath": "D:\\1120-6\\1120-6\\1120-6.vbproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\vb-main\\1120-6\\1120-6\\obj\\",
+        "outputPath": "D:\\1120-6\\1120-6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
