@@ -24,41 +24,13 @@
     End Sub
 
     Sub sp1(i)
-        Dim idno = d(i, 1)
-        If Not idno Like "[A-Z]#########" Then ec = "FORMAT ERROR"
-
 
     End Sub
     Sub sp2(i)
-        Dim sex_mf = d(i, 3)
-        Dim sex_12 = Mid(d(i, 1), 2, 1)
-        Dim msex = sex_12 & sex_mf
-        If msex <> "1M" And msex <> "2F" Then ec = "SEX CODE ERROR"
-
 
     End Sub
 
     Sub sp3(i)
-        Dim s26 = "ABCDEFGHJKLMNPQRSTUVXYWZIO"
-        Dim L1 = Mid(d(i, 1), 1, 1)
-        Dim m1 = InStr(s26, L1) + 9
-        Dim x1 = m1 \ 10
-        Dim x2 = m1 Mod 10
-        Dim y = x1 + 9 * x2
-
-        Dim a(9)
-        For j = 2 To 10
-            a(j - 1) = Mid(d(i, 1), j, 1)
-
-        Next
-
-        'y = y = 8 * a(1) + 7 * a(2) + 6 * a(3) + 5 * a(4) + 4 * (5) + 3 * (6) + 2 * a(7) + a(8)
-
-        For j = 1 To 8
-            y = y + a(9 - j) * j
-        Next
-        y = y + a(9)
-        If y Mod 10 <> 0 Then ec = "CHECK SUM ERROR"
 
     End Sub
     Sub wdata()
